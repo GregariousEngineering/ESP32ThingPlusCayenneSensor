@@ -1,6 +1,6 @@
 # ESP32 Thing Plus Cayenne Sensor Example
 
-[**This example goes with "Real" Spinach & Arugula - Aero Garden**](https://www.gregariousengineering.com/2022/04/real-spinach-arugula-aero-garden.html)
+Companion to [**"Real" Spinach & Arugula - Aero Garden**](https://www.gregariousengineering.com/2022/04/real-spinach-arugula-aero-garden.html)
 
 <img src="https://github.com/GregariousEngineering/ESP32ThingPlusCayenneSensor/blob/master/images/AeroSetup.jpg">
 
