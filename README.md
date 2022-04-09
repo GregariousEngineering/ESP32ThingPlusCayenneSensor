@@ -34,10 +34,6 @@ Requirements
 License Information
 -------------------
 
-This product is _**open source**_! 
-
-Please review the LICENSE.md file for license information. 
-
-Distributed as-is, **with flaws**; no warranty is given.
+This product is _**open source**_! Distributed as-is, **with flaws**; no warranty is given.
 
 - GregariousEngineer
