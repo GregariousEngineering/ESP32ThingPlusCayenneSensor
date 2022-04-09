@@ -1,7 +1,7 @@
 # ESP32 Thing Plus Cayenne Sensor Example
 ========================================
 
-<img src="https://github.com/GregariousEngineering/ESP32ThingPlusCayenneSensor/blob/master/images/AeroSetup.jpg" width="756" height="567">
+<img src="https://github.com/GregariousEngineering/ESP32ThingPlusCayenneSensor/blob/master/images/AeroSetup.jpg">
 
 A simple Ardruino class demonstrating Cayenne on ESP32 Thing Plus (since myDevices/Cayenne have no sample for this board)
 
